@@ -10,5 +10,10 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    },{
+        "device_id": "9921f13b8db578a1",
+        "key": "SUJAL",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
     }
 ]
